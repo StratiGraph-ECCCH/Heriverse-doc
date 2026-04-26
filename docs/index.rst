@@ -6,6 +6,11 @@ Welcome to the Heriverse Documentation
 .. note::
    This platform has been developed as part of the PNRR Mission 4, Component 2, Investment line 3.1, project "Humanities and Cultural Heritage Italian Open Science Cloud -- H2IOSC".
 
+.. admonition:: Heriverse and the StratiVerse model
+   :class: note
+
+   *Heriverse* is the public name of the platform — what users open in the browser, what is cited in non-technical contexts, what release notes refer to. *StratiVerse* is the underlying conceptual model: the position that **every entity in a heritage scene is a spatio-temporal stratigraphic unit**. The two names operate at different levels — like *Google Search* vs. *PageRank*. If you are reading this manual, you are using Heriverse; if you are writing a paper about the epistemology of the platform, the citation is to the StratiVerse model.
+
 Quick Start
 -----------
 
