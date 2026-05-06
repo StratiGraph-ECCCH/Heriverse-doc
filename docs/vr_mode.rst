@@ -46,4 +46,4 @@ After interacting with a semantic mask, you won't be able to interact with other
    :align: center
    :width: 100%
 
-   Example of a panel with a list of nodes (on the left) and a panel with the name and description of the clicked node (on the right)
+   Example of a panel with a list of nodes (on the left) and a panel with the name and description of the clicked node (on the right).
