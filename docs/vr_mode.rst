@@ -35,11 +35,11 @@ Another feature offered in this mode is the exploration of the various epochs as
 Interaction with the environment
 ---------------------------------
 
-In addition to the two features described above, once you enter the scene, you can interact with the semantic shapes present. Using the right controller, simply orient it until the semantic shapes light up. Once you've identified the desired mask, simply click the side trigger on the left controller to draw the partial knowledge graph originating from the node to which the semantic shape belongs.
+In addition to the two features described above, once you enter the scene, you can interact with the semantic shapes present. Using the right controller, simply orient it until the semantic shapes light up. Once you've identified the desired proxy, simply click the grip on the right controller to draw the partial knowledge graph originating from the node to which the semantic shape belongs.
 
 As the graph appears at the clicked point, the content of the panel on the left wrist changes, replacing the epoch buttons with subpanels that summarize the nodes near the clicked one, grouping them based on their relationship to the selected node (:numref:`fig2_5_node_panels`). The buttons at the bottom of the panel allow you to scroll through the various panels. Additionally, the name and description of the clicked node appear in the panel on the right wrist.
 
-After interacting with a semantic mask, you won't be able to interact with other masks. Pressing the side trigger on the left controller clears the drawn graph, resets the wrist panels to their default state, and lets you interact with the other masks.
+After interacting with a semantic shape, you won't be able to interact with other proxies. Pressing the grip trigger on the right controller while selecting a porting of the model with no proxies clears the drawn graph, resets the wrist panels to their default state, and lets you interact with other semantic shapes.
 
 .. _fig2_5_node_panels:
 .. figure:: img/fig2_5_node_panels.png
