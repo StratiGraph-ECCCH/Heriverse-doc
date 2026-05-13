@@ -1,5 +1,37 @@
+.. _publish-via-heriverse:
+
 User Dashboard
 ==============
+
+.. note::
+
+   **Publishing a reconstruction via Heriverse**
+
+   Heriverse is the web viewer where Extended Matrix reconstructions
+   live online. The publication flow has two halves:
+
+   1. **Export side (EM Tools)** — from Blender, export the scene
+      together with its EM graph in the Heriverse format. The output
+      is a self-contained bundle (3D geometry + graph + paradata
+      assets) ready for upload. See the *Export Manager → Heriverse
+      Export* section of the EM Tools manual:
+      `Export Manager
+      <https://docs.extendedmatrix.org/projects/EM-tools/en/latest/panels/export_manager.html>`_.
+   2. **Heriverse side** (this page) — from the User Dashboard,
+      create a new scene and upload the bundle. Heriverse parses the
+      bundle, renders the 3D scene in the browser, and exposes the
+      paradata chain via click-to-inspect interactions.
+
+   You can choose what to share: *documentation only* (graph +
+   paradata, suitable for stratigraphy publication) or *full
+   reconstruction* (epochs + 3D scene + paradata, suitable for
+   polished public output). Both flow through the same Heriverse
+   scene-creation tab — only the payload extent changes.
+
+   The bundle is the source of truth: once published, the scene is
+   shareable via a URL. Any changes to the underlying graph or
+   geometry require re-exporting from EM Tools and re-uploading —
+   there is no live edit-in-place from the web side.
 
 After logging into Digilab, users can access Heriverse's creator features.
 
