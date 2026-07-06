@@ -35,6 +35,7 @@ Contents
 
    viewing_scene
    vr_mode
+   xr_reference
 
 .. toctree::
    :maxdepth: 2
