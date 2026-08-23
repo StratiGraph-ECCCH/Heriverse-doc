@@ -16,7 +16,7 @@ User Dashboard
       assets) ready for upload. See the *Export Manager → Heriverse
       Export* section of the EM Tools manual:
       `Export Manager
-      <https://docs.extendedmatrix.org/projects/EM-tools/en/latest/panels/export_manager.html>`_.
+      <https://docs.extendedmatrix.org/projects/EM-tools/en/1.5/panels/export_manager.html>`_.
    2. **Heriverse side** (this page) — from the User Dashboard,
       create a new scene and upload the bundle. Heriverse parses the
       bundle, renders the 3D scene in the browser, and exposes the
