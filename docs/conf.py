@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Heriverse - Heritage Science Metaverse'
-copyright = '2025, Emanuel Demetrescu'
+copyright = '2025–2026, Consiglio Nazionale delle Ricerche (CNR) — Istituto di Scienze del Patrimonio Culturale'
 author = 'Emanuel Demetrescu'
 
 release = '1.0'
